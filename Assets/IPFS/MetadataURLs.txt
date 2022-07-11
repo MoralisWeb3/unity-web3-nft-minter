@@ -1,0 +1,3 @@
+ERC721 Standard Metadata URLS:
+
+https://ipfs.moralis.io:2053/ipfs/QmYoKLbeUNxE3Gue4sQTn8e2ohpgLTKEpbS3UZ2KQsg9jW/StarPower-Up_637930547394574696.json
